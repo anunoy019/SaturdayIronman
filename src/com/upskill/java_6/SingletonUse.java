@@ -9,7 +9,7 @@ public class SingletonUse {
 		obj.demo2();
 		obj.demo3();
 		
-		// new git change for pull request
+		
 		
 		
 		
